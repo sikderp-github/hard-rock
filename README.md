@@ -1,3 +1,3 @@
 # hard-rock-solution
-api link: https://api.lyrics.ovh/suggest/summer
+website link: https://sikderp-github.github.io/hard-rock/
 # hard-rock
